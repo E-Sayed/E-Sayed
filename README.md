@@ -13,7 +13,7 @@ The included example classifies manufacturing defects on hot-rolled steel strips
 
 ## In Progress
 
-### [OCR](https://github.com/E-Sayed/ocr)
+### OCR
 A self-hosted OCR web application that extracts text, tables, and figures from images using a local vision-language model.
 
 Runs GLM-OCR (0.9B parameters) via Ollama — no API keys, no cloud dependencies, fully offline-capable.
