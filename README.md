@@ -1,6 +1,6 @@
 # Ehsan Sayed
 
-R&D engineer in manufacturing, building open source software solutions for industrial environments.
+R&D engineer in manufacturing
 
 ## Projects
 
